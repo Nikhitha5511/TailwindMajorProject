@@ -1,5 +1,11 @@
 # Major Project using Tailwind
 
+# Hosted Link
+https://nikhitha5511.github.io/TailwindMajorProject/
+
+
+
+
 1.![first](s1.png)
 
 2.![second](s2.png)
